@@ -1,0 +1,67 @@
+html{
+    scroll-behavior:smooth ;
+}
+
+.progress mb-2 {
+    background-image:linear-gradient(
+      to right,
+      #e8c2e8,
+      #ce94c5,
+      #886a8c,
+      #614869,
+      #42394a;
+    );
+  }
+
+
+
+
+.foto-perfil{
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+.corPrimaria{
+    background-color:#ada1de;
+}
+.corSecundaria{
+    background-color:#6b698e;
+}
+p{
+    font-family:monospace
+    color:black !important;
+}
+.icones{
+    padding-left: 5px;
+}
+.titulosBrancos{
+    text-decoration:none;
+    text-underline-position:below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+.titulosVerdes{
+    text-decoration:none;
+    text-underline-position:below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #503f5f;
+}
+.textoBlack{
+    color: black !important;
+}
+.jumbotron{
+    margin-bottom: 0px;
+}
+.textofooter{
+    margin:0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.barra{
+    color:#421fcc;
+}
